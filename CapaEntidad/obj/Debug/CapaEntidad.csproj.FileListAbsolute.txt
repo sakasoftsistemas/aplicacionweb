@@ -1,0 +1,16 @@
+D:\Pedro\ProyPizzeria\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Pedro\ProyPizzeria\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.pdb
+E:\Pedro\ProyPizzeria\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\Pedro\ProyPizzeria\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\user.pc\Desktop\Pedro\ProyPizzeria\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\user.pc\Desktop\Pedro\ProyPizzeria\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\user.pc\Desktop\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\user.pc\Desktop\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\user.pc\Desktop\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\user.pc\Desktop\Pedro\ProyPizzeria\CapaEntidad\obj\Debug\CapaEntidad.pdb
